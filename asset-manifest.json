@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/scenariusz-app/static/css/main.e6c13ad2.css",
-    "main.js": "/scenariusz-app/static/js/main.aa9c6609.js",
+    "main.js": "/scenariusz-app/static/js/main.ec6c745a.js",
     "static/js/453.15c53eea.chunk.js": "/scenariusz-app/static/js/453.15c53eea.chunk.js",
     "index.html": "/scenariusz-app/index.html",
     "main.e6c13ad2.css.map": "/scenariusz-app/static/css/main.e6c13ad2.css.map",
-    "main.aa9c6609.js.map": "/scenariusz-app/static/js/main.aa9c6609.js.map",
+    "main.ec6c745a.js.map": "/scenariusz-app/static/js/main.ec6c745a.js.map",
     "453.15c53eea.chunk.js.map": "/scenariusz-app/static/js/453.15c53eea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.aa9c6609.js"
+    "static/js/main.ec6c745a.js"
   ]
 }
