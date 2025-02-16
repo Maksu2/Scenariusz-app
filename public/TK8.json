@@ -1,0 +1,16 @@
+[
+    { "person": "Postać 1", "text": "Kwestia z Aktu 1!" },
+    { "person": "Postać 2", "text": "Odpowiedź z Aktu 1!" },
+    { "type": "technical", "text": "Ustawić światła na czerwono." },
+    { "type": "music", "text": "Puszczamy spokojną muzykę." },
+    { "person": "Postać 1", "text": "Kwestia z Aktu 1!" },
+    { "person": "Postać 2", "text": "Odpowiedź z Aktu 1!" },
+    { "type": "technical", "text": "Ustawić światła na czerwono." },
+    { "type": "music", "text": "Puszczamy spokojną muzykę." },
+    { "person": "Postać 1", "text": "Kwestia z Aktu 1!" },
+    { "person": "Postać 2", "text": "Odpowiedź z Aktu 1!" },
+    { "type": "technical", "text": "Ustawić światła na czerwono." },
+    { "type": "music", "text": "Puszczamy spokojną muzykę." },
+    { "person": "Postać 1", "text": "Druga kwestia z Aktu 1." }
+  ]
+  
