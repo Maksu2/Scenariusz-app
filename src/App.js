@@ -8,7 +8,7 @@ export default function App() {
   // Funkcja do załadowania pliku JSON
   const loadScenario = async () => {
     try {
-      const response = await fetch("/TK8.json");
+      const response = await fetch(process.env.PUBLIC_URL + "/TK8.json");
       if (!response.ok) {
         throw new Error("Failed to load TK8.json");
       }
@@ -20,6 +20,7 @@ export default function App() {
       alert("Failed to load TK8.json");
     }
   };
+  
 
   // Ładowanie scenariusza po załadowaniu komponentu
   useEffect(() => {
